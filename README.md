@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Nilakshi Gaur</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSawmCFsO3tHuW6lgnKOeom2RbgbpQNN9HS9w&usqp=CAU">
+<h3 align="center">A passionate  developer from India</h3>
+<img align="right" alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSawmCFsO3tHuW6lgnKOeom2RbgbpQNN9HS9w&usqp=CAU">
 ">
 
 - 📫 How to reach me **nilakshigaur6@gmail.com**
